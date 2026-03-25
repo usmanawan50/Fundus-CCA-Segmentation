@@ -23,7 +23,7 @@ An automated medical image processing pipeline implemented in Python and OpenCV 
 
 - [@usmanawan50](https://github.com/usmanawan50/usmanawan50.git)
 
-## Deployment(on Windows) 
+## Deployment
 
 Clone this repository to vs code and open with live server:
 
@@ -39,6 +39,16 @@ Clone this repository to vs code and open with live server:
   MyFunctions.py   = Function definitions used in the program.
   mainRoutine.py   = demo script for complete image processing.
   MainScript.py    = main script to process all images.
+```
+
+## Dataset
+Use this [link](https://www.kaggle.com/datasets/lokeshsaipureddi/drishtigs-retina-dataset-for-onh-segmentation/data) or run the following script to get the dataset used directly from Kaggle:<br>
+```bash
+  import kagglehub
+
+  # Download latest version
+  path = kagglehub.dataset_download("lokeshsaipureddi/drishtigs-retina-dataset-for-onh-segmentation")
+  print("Path to dataset files:", path)
 ```
 
 ## FAQ
