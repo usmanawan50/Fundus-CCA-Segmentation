@@ -1,0 +1,174 @@
+Processing: drishtiGS_001
+Saved pixels to Processed_Images/drishtiGS_001_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_001_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_003
+Saved pixels to Processed_Images/drishtiGS_003_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_003_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_005
+Saved pixels to Processed_Images/drishtiGS_005_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_005_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_006
+Saved pixels to Processed_Images/drishtiGS_006_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_006_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_007
+Saved pixels to Processed_Images/drishtiGS_007_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_007_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_009
+Saved pixels to Processed_Images/drishtiGS_009_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_009_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_011
+Saved pixels to Processed_Images/drishtiGS_011_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_011_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_013
+Saved pixels to Processed_Images/drishtiGS_013_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_013_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_014
+Saved pixels to Processed_Images/drishtiGS_014_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_014_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_020
+Saved pixels to Processed_Images/drishtiGS_020_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_020_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_021
+Saved pixels to Processed_Images/drishtiGS_021_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_021_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_023
+Saved pixels to Processed_Images/drishtiGS_023_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_023_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_025
+Saved pixels to Processed_Images/drishtiGS_025_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_025_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_027
+Saved pixels to Processed_Images/drishtiGS_027_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_027_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_028
+Saved pixels to Processed_Images/drishtiGS_028_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_028_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_029
+Saved pixels to Processed_Images/drishtiGS_029_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_029_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_030
+Saved pixels to Processed_Images/drishtiGS_030_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_030_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_034
+Saved pixels to Processed_Images/drishtiGS_034_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_034_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_039
+Saved pixels to Processed_Images/drishtiGS_039_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_039_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_043
+Saved pixels to Processed_Images/drishtiGS_043_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_043_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_048
+Saved pixels to Processed_Images/drishtiGS_048_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_048_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_050
+Saved pixels to Processed_Images/drishtiGS_050_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_050_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_052
+Saved pixels to Processed_Images/drishtiGS_052_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_052_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_053
+Saved pixels to Processed_Images/drishtiGS_053_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_053_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_054
+Saved pixels to Processed_Images/drishtiGS_054_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_054_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_055
+Saved pixels to Processed_Images/drishtiGS_055_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_055_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_056
+Saved pixels to Processed_Images/drishtiGS_056_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_056_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_059
+Saved pixels to Processed_Images/drishtiGS_059_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_059_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_065
+Saved pixels to Processed_Images/drishtiGS_065_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_065_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_067
+Saved pixels to Processed_Images/drishtiGS_067_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_067_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_070
+Saved pixels to Processed_Images/drishtiGS_070_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_070_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_071
+Saved pixels to Processed_Images/drishtiGS_071_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_071_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_072
+Saved pixels to Processed_Images/drishtiGS_072_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_072_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_073
+Saved pixels to Processed_Images/drishtiGS_073_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_073_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_074
+Saved pixels to Processed_Images/drishtiGS_074_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_074_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_077
+Saved pixels to Processed_Images/drishtiGS_077_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_077_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_078
+Saved pixels to Processed_Images/drishtiGS_078_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_078_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_079
+Saved pixels to Processed_Images/drishtiGS_079_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_079_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_082
+Saved pixels to Processed_Images/drishtiGS_082_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_082_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_083
+Saved pixels to Processed_Images/drishtiGS_083_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_083_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_085
+Saved pixels to Processed_Images/drishtiGS_085_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_085_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_086
+Saved pixels to Processed_Images/drishtiGS_086_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_086_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+Processing: drishtiGS_087
+Saved pixels to Processed_Images/drishtiGS_087_OD_Pixels.txt
+Saved pixels to Processed_Images/drishtiGS_087_Cup_Pixels.txt
+  > OD Dice: 1.0000 | Cup Dice: 1.0000
+
+Processing Complete. Results saved to 'dice_results.txt'.
