@@ -54,7 +54,7 @@ The pipeline computes the Dice Coefficient for three classes: background, Optic 
 
 ## Usage/Examples
 
-![Demo GIF](assets/output.gif)<br>
+![Demo GIF](assets/output1.gif)<br>![Demo GIF](assets/output2.gif)<br>
 
 The project report contains a detailed and thorough walkthrough of the project. Refer to it for further queries.
 <br>(Chrome browser)
